@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+python-docx
+fpdf
+Pillow
+requests
+google-generativeai
+python-dotenv
